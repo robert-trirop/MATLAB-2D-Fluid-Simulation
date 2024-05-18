@@ -2,6 +2,8 @@
 
 This repository contains the MATLAB code for a fluid simulation, originally coded in 2017 and featured in [this YouTube video](https://www.youtube.com/watch?v=cM47L5RddsM).
 
+![Fluid Simulation](images/simulation.png)
+
 ## Overview
 
 The code simulates fluid flow using a combination of the finite difference method and the Runge-Kutta method for particle advection. The main functionalities include:
