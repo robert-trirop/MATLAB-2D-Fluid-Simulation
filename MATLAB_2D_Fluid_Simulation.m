@@ -20,7 +20,7 @@
 % OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 % SOFTWARE.
 % 
-% If you use this code for your own animations, please give credit to the original author.
+% If you use this code for your own animations, please give credit to me.
 
 % 2D Fluid Simulation in MATLAB
 % Cleaned and commented version
