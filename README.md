@@ -15,12 +15,12 @@ The code simulates fluid flow using a combination of the finite difference metho
 
 ## License
 
-This project is licensed under the MIT License - see the `fluid.m` file for details.
+This project is licensed under the MIT License - see the `MATLAB_2D_Fluid_Simulation.m` file for details.
 
 ## How to Use
 
 1. Clone the repository.
-2. Open `fluid.m` in MATLAB.
+2. Open `MATLAB_2D_Fluid_Simulation.m` in MATLAB.
 3. Run the script to see the fluid simulation.
 4. Close the figure window to stop the simulation.
 
