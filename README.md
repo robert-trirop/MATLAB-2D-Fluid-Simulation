@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB code for a fluid simulation, originally coded in 2017 and featured in [this YouTube video](https://www.youtube.com/watch?v=cM47L5RddsM).
 
-![Fluid Simulation](images/simulation.png)
+<img src="images/simulation.png" alt="Fluid Simulation" width="400"/>
 
 ## Overview
 
